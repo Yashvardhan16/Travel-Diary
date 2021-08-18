@@ -1,0 +1,25 @@
+.H{
+    text-align: center;
+    font-size: 36px;
+}
+#S{
+    font-weight: bold;
+    color: rgb(43, 43, 3);
+}
+#S1{
+    color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif
+}
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+a:hover {
+    text-decoration: underline;
+  }
+  a:active {
+    text-decoration: underline;
+  }
